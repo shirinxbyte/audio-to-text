@@ -15,4 +15,4 @@ And you know what? I'm throwing this on my GitHub because why not? Sharing this 
 Cheers to the hustle! 🥂
 
 
-#How to run it
+# How to run it
