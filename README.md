@@ -33,3 +33,9 @@ brew install ffmpeg
 # For Ubuntu or Linux
 sudo apt update
 sudo apt install ffmpeg
+
+‘‘‘bash
+
+### 2. Use Whisper to Transcribe Audio
+
+Once installed, use the following Python code to transcribe your audio:
