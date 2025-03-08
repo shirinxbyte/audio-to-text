@@ -19,16 +19,22 @@ Cheers to the hustle! 🥂
 
 To transcribe audio files to text using Whisper, follow these steps:
 
-### 1. Install Dependencies
+# Project Title
 
-First, make sure you have Python and `ffmpeg` installed. Run the following commands in your terminal:
+A brief description of your project.
 
+## Table of Contents
 
-# Example of Bash and Python Snippets
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Bash Script
+## Installation
+
+To get started, clone the repository:
 
 ```bash
-#!/bin/bash
-echo "Hello, World!"
+git clone https://github.com/yourusername/yourrepo.git
+
 
