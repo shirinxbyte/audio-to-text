@@ -19,22 +19,19 @@ Cheers to the hustle! 🥂
 
 To transcribe audio files to text using Whisper, follow these steps:
 
-# Project Title
 
-A brief description of your project.
+First, you'll need to install Whisper and its dependencies.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-To get started, clone the repository:
+### 1. Install Whisper via pip: Whisper is available through the openai-whisper package. You can install it by running the following command:
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
+pip install openai-whisper
+‘‘‘bash
 
+### 2. Install ffmpeg: Whisper requires ffmpeg to handle various audio formats (such as MP3, WAV, etc.). You can install ffmpeg as follows:
+
+macOS (using Homebrew):
+´´´bash
+brew install ffmpeg
+‘‘‘bash
 
