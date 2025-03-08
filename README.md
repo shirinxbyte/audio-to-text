@@ -13,3 +13,6 @@ Right after my "Hello World" moment, I hit a roadblock, figured it out, and solv
 And you know what? I'm throwing this on my GitHub because why not? Sharing this journey is part of the fun.
 
 Cheers to the hustle! 🥂
+
+
+#How to run it
