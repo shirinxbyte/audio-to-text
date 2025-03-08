@@ -23,19 +23,10 @@ To transcribe audio files to text using Whisper, follow these steps:
 
 First, make sure you have Python and `ffmpeg` installed. Run the following commands in your terminal:
 
-```bash
-# Install Whisper
-pip install openai-whisper
 
-# Install ffmpeg (For Mac, use Homebrew)
-brew install ffmpeg
+### Explanation:
+- ` ```bash ` and ` ```python ` are used to specify the language for syntax highlighting. Bash and Python are specified here.
+- The code snippets themselves are placed between the code blocks, enclosed by triple backticks (```) for proper formatting.
+  
+Once you add this to your `README.md` file, GitHub will render the Bash and Python code with syntax highlighting.
 
-# For Ubuntu or Linux
-sudo apt update
-sudo apt install ffmpeg
-
-‘‘‘bash
-
-### 2. Use Whisper to Transcribe Audio
-
-Once installed, use the following Python code to transcribe your audio:
