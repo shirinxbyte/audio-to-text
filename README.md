@@ -24,9 +24,11 @@ To transcribe audio files to text using Whisper, follow these steps:
 First, make sure you have Python and `ffmpeg` installed. Run the following commands in your terminal:
 
 
-### Explanation:
-- ` ```bash ` and ` ```python ` are used to specify the language for syntax highlighting. Bash and Python are specified here.
-- The code snippets themselves are placed between the code blocks, enclosed by triple backticks (```) for proper formatting.
-  
-Once you add this to your `README.md` file, GitHub will render the Bash and Python code with syntax highlighting.
+# Example of Bash and Python Snippets
+
+## Bash Script
+
+```bash
+#!/bin/bash
+echo "Hello, World!"
 
