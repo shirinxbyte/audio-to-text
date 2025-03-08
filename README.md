@@ -28,10 +28,3 @@ First, you'll need to install Whisper and its dependencies.
 pip install openai-whisper
 ´´´
 
-### 2. Install ffmpeg: Whisper requires ffmpeg to handle various audio formats (such as MP3, WAV, etc.). You can install ffmpeg as follows:
-
-macOS (using Homebrew):
-´´´bash
-brew install ffmpeg
-‘‘‘bash
-
