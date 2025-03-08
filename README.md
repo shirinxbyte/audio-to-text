@@ -15,28 +15,21 @@ And you know what? I'm throwing this on my GitHub because why not? Sharing this 
 Cheers to the hustle! 🥂
 
 
-# How to run it
+## How to Transcribe Audio Using Whisper (OpenAI)
 
-To use Whisper, OpenAI's powerful audio-to-text transcription model, on your laptop, follow these steps. Whisper works well for transcribing speech to text and is available as an open-source library.
+To transcribe audio files to text using Whisper, follow these steps:
 
-Here's a quick guide on how to get started:
+### 1. Install Dependencies
 
-1. Install Dependencies
-First, you'll need to install Whisper and the necessary libraries. Make sure you have Python installed on your system (preferably Python 3.7+).
+First, make sure you have Python and `ffmpeg` installed. Run the following commands in your terminal:
 
-Open your terminal (Command Prompt, PowerShell, or terminal on Mac/Linux) and run:
+```bash
+# Install Whisper
 pip install openai-whisper
-Additionally, you’ll need ffmpeg to process audio files like MP3s, WAVs, etc.
 
-For Windows: Download the ffmpeg zip from ffmpeg.org and follow installation instructions.
-For Mac: You can install it via Homebrew by running:
+# Install ffmpeg (For Mac, use Homebrew)
 brew install ffmpeg
-For Linux: You can install it with:
+
+# For Ubuntu or Linux
 sudo apt update
 sudo apt install ffmpeg
-2. Use Whisper to Transcribe Audio
-Once you've installed Whisper and ffmpeg, you can use it to transcribe audio to text.
-
-Example Python Script:
-
-Create a Python file (e.g., transcribe.py) and paste the following code:
