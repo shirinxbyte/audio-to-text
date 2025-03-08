@@ -26,5 +26,5 @@ First, you'll need to install Whisper and its dependencies.
 
 ```bash
 pip install openai-whisper
-‘‘‘
+
 
