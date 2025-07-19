@@ -1,7 +1,7 @@
 # audio-to-text
 
 So, I was brainstorming for inspiration for one of my daily videos as part of my 100 Days of AI challenge. 
-I needed a transcription from a video to get things rolling. But, of course, I hit a wall. 
+I needed a transcription from a video to get things rolling. But, of course, I hit a wall.  
 I tried several websites, but all of them wanted me to either create an account (seriously, for a one-time task?) or pay for some premium subscription. 
 Like, come on, I'm just an AI newbie who posted my first Python "Hello World" last week, and these sites want me to fork out cash just to transcribe some audio? Nah.
  
