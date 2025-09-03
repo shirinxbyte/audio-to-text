@@ -8,7 +8,7 @@ Like, come on, I'm just an AI newbie who posted my first Python "Hello World" la
 So, instead of giving in to the paywall or logging into some random site, I decided to take matters into my own hands. 
 I used some open-source libraries, coded it up myself, and got the transcription done locally on my laptop.
 Sure, it's not a massive achievement, but for me, this is huge. 
-Right after my "Hello World" moment, I hit a roadblock, figured it out, and solved it by writing some code. It's not just about the solution; it's about learning and applying those lessons.
+Right after my "Hello World" moment, I hit a roadblock, figured it out, and solved it by writing some code. It's not just about the solution; it's about learning and applying those lessons. 
 
 And you know what? I'm throwing this on my GitHub because why not? Sharing this journey is part of the fun. 
 
